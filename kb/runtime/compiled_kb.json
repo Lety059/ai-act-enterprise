@@ -1,0 +1,32 @@
+{
+  "articles": {
+    "A001": {
+      "id": "A001",
+      "title": "Oggetto",
+      "category": "GENERAL",
+      "priority": "MEDIUM",
+      "owner": "Compliance Team",
+      "practical_obligations": [
+        "Definire scopo sistema",
+        "Stabilire ruoli"
+      ],
+      "required_evidence": [
+        "SYSTEM_OVERVIEW.md"
+      ]
+    },
+    "A002": {
+      "id": "A002",
+      "title": "Ambito di applicazione",
+      "category": "GENERAL",
+      "priority": "HIGH",
+      "owner": "Compliance Team",
+      "practical_obligations": [
+        "Verificare campo applicazione"
+      ],
+      "required_evidence": [
+        "SCOPE_DOC.md"
+      ]
+    }
+  },
+  "statistics": {}
+}
